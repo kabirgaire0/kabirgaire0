@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vue,nodejs,npm&theme=light)](https://skillicons.dev)
 
-### Full Frameworks: PHP & Laravel
+### Fullstack Frameworks: PHP & Laravel
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel&theme=light)](https://skillicons.dev)
 
