@@ -2,9 +2,9 @@
     I'm Kabir Gaire.
     Thanks for visiting!
 
-### Frontend Skills: Html, CSS, Javascript, Vue, and Node.js
+### Frontend Skills: Html, CSS, Javascript, Vue, Jquery and Node.js
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vue,nodejs)](https://skillicons.dev)
 
 ### Full Frameworks: PHP & Laravel
 
