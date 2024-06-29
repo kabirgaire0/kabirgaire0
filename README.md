@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Uploading icons.svg…]()
 
 
 # Kabir Gaire
+
+# Skills
+
+https://skillicons.dev/icons?i=all
