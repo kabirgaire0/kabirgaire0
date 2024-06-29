@@ -1,24 +1,24 @@
-## Hi there 👋
-
-<!--
-**kabirgaire0/kabirgaire0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Uploading icons.svg…]()
-
-
 # Kabir Gaire
 
-# Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,mysql)](https://skillicons.dev)
+### languages
+[![My Skills](https://skillicons.dev/icons?i=
+    html,
+    css,
+    js,
+    nodejs,
+    vue,
+    php,
+    laravel,
+    java,
+    spring,
+    cs,
+    dotnet,
+    mysql,
+    redis,
+    bash,
+    docker,
+    aws,
+    gcp,
+    git,
+    github,
+)](https://skillicons.dev)
