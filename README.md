@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 # Skills
 
-https://skillicons.dev/icons?i=all
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,mysql)](https://skillicons.dev)
