@@ -4,7 +4,7 @@
 
 ### Frontend Skills: Html, CSS, Javascript, Vue, Jquery, Node.js, NPM
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vue,nodejs,npm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,nodejs,npm&theme=light)](https://skillicons.dev)
 
 ### Fullstack Frameworks: PHP & Laravel
 
