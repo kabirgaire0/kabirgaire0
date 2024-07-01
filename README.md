@@ -28,7 +28,7 @@
 
 ### Cloud Solutions: AWS, Google cloud
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,gcp&theme=light)](https://skillicons.dev)
 
 ### Server OS: Ubuntu, Debian 
 
