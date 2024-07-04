@@ -1,5 +1,5 @@
-# Hello, welcome!
-    I'm Kabir Gaire.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Kabir+Gaire;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+
     Thanks for visiting!
 
 
