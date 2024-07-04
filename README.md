@@ -1,7 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Kabir+Gaire;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-    Thanks for visiting!
+### A few things about me
 
+- 💻 I'm web developer in Tokyo, Japan.  📍
+- 🕸️ I mainly work on the backend.
+- 🤝 I like to meet new people simmilar to me.
+- 🤓 I like to watch anime, go on walks, etc in my free time.
+- 🤓 I am always excited about learning new web technologies.
 
 ## 📈 GitHub Stats
 
