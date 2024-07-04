@@ -15,6 +15,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirgaire0&theme=radical" />
 </p>
 
+## My Skills
+
 ### Frontend Skills: Html, CSS, Javascript, Vue, Jquery, Node.js, NPM
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,nodejs,npm&theme=light)](https://skillicons.dev)
