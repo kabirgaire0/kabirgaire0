@@ -2,6 +2,14 @@
     I'm Kabir Gaire.
     Thanks for visiting!
 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabirgaire0&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirgaire0&theme=radical" />
+</p>
+
 ### Frontend Skills: Html, CSS, Javascript, Vue, Jquery, Node.js, NPM
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,nodejs,npm&theme=light)](https://skillicons.dev)
