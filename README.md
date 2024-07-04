@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Kabir+Gaire;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-### A few things about me
+## A few things about me
 
 - 💻 I'm web developer in Tokyo, Japan.  📍
 - 🕸️ I mainly work on the backend.
@@ -15,7 +15,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirgaire0&theme=radical" />
 </p>
 
-### My Skills
+## My Skills
 
   ### Frontend Skills: Html, CSS, Javascript, Vue, Jquery, Node.js, NPM
   
