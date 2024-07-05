@@ -17,7 +17,7 @@
 
 ## My Skills
 
-  ### Frontend Skills: Html, CSS, Javascript, Vue, Jquery, Node.js, NPM
+  ### Frontend Skills: Html, CSS, Javascript, React, Jquery, Node.js, NPM
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,nodejs,npm&theme=light)](https://skillicons.dev)
   
