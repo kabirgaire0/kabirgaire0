@@ -8,13 +8,6 @@
 - 🤓 I like to watch anime, go on walks, etc in my free time.
 - 🤓 I am always excited about learning new web technologies.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabirgaire0&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirgaire0&theme=radical" />
-</p>
-
 ## My Skills
 
   ### Frontend Skills: Html, CSS, Javascript, React, Jquery, Node.js, NPM
