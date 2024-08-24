@@ -5,6 +5,13 @@
 
 ![](https://komarev.com/ghpvc/?username=kabirgaire0)
 
+- 🌱 I’m currently learning **Golang & AWS**
+
+- 📫 How to reach me **kabir.gaire123@gmail.com**
+
+- 📄 Checkout my profile here [wantedly : kabirgaire](https://www.wantedly.com/id/kabirgaire)
+
+
 ## My Skills
 
   ### Frontend Skills: Html, CSS, Javascript, React, Jquery, Node.js, NPM, Shadcn
