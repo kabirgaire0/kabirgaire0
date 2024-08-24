@@ -10,21 +10,21 @@
 
 ## My Skills
 
-  ### Frontend Skills: Html, CSS, Javascript, React, Jquery, Node.js, NPM
+  ### Frontend Skills: Html, CSS, Javascript, React, Jquery, Node.js, NPM, Shadcn
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,npm&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,npm,shadcn&theme=light)](https://skillicons.dev)
   
   ### Fullstack Frameworks: PHP & Laravel
   
   [![My Skills](https://skillicons.dev/icons?i=php,laravel&theme=light)](https://skillicons.dev)
   
-  ### Backend: Java, Spring Boot, C# & Dotnet
+  ### Backend: Javascript, Express.js, GO, Gin
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,express,go,gin&theme=light)](https://skillicons.dev)
   
-  ### Database: MySQL & Redis
+  ### Database: MySQL, Sqlite & Redis
   
-  [![My Skills](https://skillicons.dev/icons?i=mysql,redis&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis&theme=light)](https://skillicons.dev)
   
   ### Version Control: git, github
   
