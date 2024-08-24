@@ -1,12 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Kabir+Gaire;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-## A few things about me
+![github contribution grid snake animation](https://raw.githubusercontent.com/kabirgaire0/kabirgaire0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/kabirgaire0/kabirgaire0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 💻 I'm web developer in Tokyo, Japan.  📍
-- 🕸️ I mainly work on the backend.
-- 🤝 I like to meet new people similar to me.
-- 🤓 I like to watch anime, go on walks, etc in my free time.
-- 🤓 I am always excited about learning new web technologies.
+![](https://komarev.com/ghpvc/?username=kabirgaire0)
 
 ## My Skills
 
@@ -41,10 +38,3 @@
   ### Server OS: Ubuntu, Debian 
   
   [![My Skills](https://skillicons.dev/icons?i=debian,ubuntu&theme=light)](https://skillicons.dev)
-
-### Hi there 👋
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/kabirgaire0/kabirgaire0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/kabirgaire0/kabirgaire0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://komarev.com/ghpvc/?username=kabirgaire0)
