@@ -4,7 +4,7 @@
 
 - 💻 I'm web developer in Tokyo, Japan.  📍
 - 🕸️ I mainly work on the backend.
-- 🤝 I like to meet new people simmilar to me.
+- 🤝 I like to meet new people similar to me.
 - 🤓 I like to watch anime, go on walks, etc in my free time.
 - 🤓 I am always excited about learning new web technologies.
 
