@@ -6,9 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=kabirgaire0)
 
 # Hi there !
-- 📫 How to reach me **kabir.gaire123@gmail.com**
-
-- 📄 Checkout my profile here [wantedly : kabirgaire](https://www.wantedly.com/id/kabirgaire)
+- 📫 How to reach me [website : kabirgaire](https://kabirgaire0.github.io/)
+- 📄 Reach my email here at : **kabir.gaire123@gmail.com**
 
 
 ## My Skills
